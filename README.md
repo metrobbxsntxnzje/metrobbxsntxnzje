@@ -4,20 +4,18 @@
 
 <p align="left">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🎓 Education
-- **College University** | B.S. Computer Science (Expected June 2026)
-- **GPA:** 4.0 / 4.0
+Hi, I'm bbxsntxnjedev – an Information Technology student at Saigon University (SGU). I enjoy building desktop applications, backend systems, and exploring new technologies.
 
 ---
 
 ### 🛠 Skills
 - **Languages:** `C#`, `C/C++`, `Java`, `JavaScript/TypeScript`, `HTML/CSS`, `LaTeX`
-- **Frameworks:** `.NET (Windows Forms)`, `React`, `Next.js`, `Spring Boot`
+- **Frameworks:** `.NET (Windows Forms)`, `React`,  `Spring Boot`
 - **Tools:** `Git/GitHub`, `SQL Server`, `VS Code`, `Visual Studio`, `IntelliJ`
 
 ---
@@ -29,16 +27,9 @@
 - Hệ thống quản lý và tổ chức thi trắc nghiệm chuyên nghiệp.
 - Xử lý cơ sở dữ liệu và giao diện người dùng tối ưu.
 
-#### 🍔 [Restaurant Management System](https://github.com/metrobbxsntxnzje/restaurant-management)
-*Next.js, React, Tailwind CSS*
-- Website quản lý nhà hàng với đầy đủ chức năng CRUD cho Admin.
-- Giao diện hiện đại, tối ưu UI/UX cho người dùng.
 
-#### 🔐 [Login Integration Testing](https://github.com/metrobbxsntxnzje/testing-project)
-*Java, Spring Boot, React*
-- Dự án Full-stack tập trung vào việc triển khai Integration Tests cho hệ thống đăng nhập.
 
----
+
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -47,6 +38,3 @@
 
 ---
 
-### ✨ Fun Fact
-- I enjoy crafting beautiful documents with **LaTeX**.
-- I'm passionate about **Human-Computer Interaction (HCI)** and building user-centric applications.
