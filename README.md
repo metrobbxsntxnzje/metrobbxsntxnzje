@@ -14,7 +14,7 @@ Hi, I'm bbxsntxnjedev – an Information Technology student at Saigon University
 ---
 
 ### 🛠 Skills
-- **Languages:** `C#`, `C/C++`, `Java`, `JavaScript/TypeScript`, `HTML/CSS`, `LaTeX`
+- **Languages:** `C#`, `C/C++`, `Java`, `JavaScript`, `HTML/CSS`, `LaTeX`
 - **Frameworks:** `.NET (Windows Forms)`, `React`,  `Spring Boot`
 - **Tools:** `Git/GitHub`, `SQL Server`, `VS Code`, `Visual Studio`, `IntelliJ`
 
